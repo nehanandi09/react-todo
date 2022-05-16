@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# TODO - React, Chakra UI App
+
+## Overview
+
+A simple Todo list app made using React and Chakra UI. User can add their todos and delete them. Has both light and dark mode.
+
+## Screenshot
+
+- Light Mode
+  ![](./screenshot_lightmode.png)
+
+- Dark Mode
+  ![](./screenshot_darkmode.png)
+
+## Built with
+
+- React library - functional components
+- Chakra UI
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
