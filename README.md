@@ -4,6 +4,8 @@
 
 A simple Todo list app made using React and Chakra UI. User can add their todos and delete them. Has both light and dark mode.
 
+[Live Site URL](https://react-todo-amber-eight.vercel.app/)
+
 ## Screenshot
 
 - Light Mode
